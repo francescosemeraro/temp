@@ -1,8 +1,9 @@
 # Title
-Aging of biomass burning aerosols over West Africa
+Simulations of biomass burning aerosols over West Africa
 
 # Author 
 Francesco Semeraro
+John Smith
 
 # Introduction
 We present aircraft measurement of BBOA over West Africa.
