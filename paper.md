@@ -33,3 +33,6 @@ More stuff for different parallel versions.
 
 #Conclusions
 We made a fantastic insight into the BBOA aging process. Nonetheles, questions remain unanswered. Get some more funding
+
+# References
+Jones et al 1998
