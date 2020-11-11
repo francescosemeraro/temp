@@ -5,6 +5,7 @@ Aircraft measurements and simulations of biomass burning aerosols over West Afri
 # Author 
 John Smith, University of Somewhere Else.
 Francesco Semeraro, University of Manchester
+Harry Chown, University of Manchester
 
 
 
@@ -34,4 +35,16 @@ More stuff for different parallel versions.
 #Conclusions
 We made a fantastic insight into the BBOA aging process. Nonetheles, questions remain unanswered. Get some more funding
 
+
 #Acknowledgements(most recent)
+
+
+#Acknowledgements
+I am thankful to my family and friends.
+
+# References
+Jones et al 1998
+
+#Signature
+Signature.
+
