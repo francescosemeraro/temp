@@ -22,5 +22,3 @@ Other changes for second exercise.
 
 #Methodology
 Methods for the work.
-
-Smaller particles were emasured using a Scanning Mobility method.
