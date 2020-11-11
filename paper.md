@@ -5,6 +5,7 @@ Aircraft measurements and simulations of biomass burning aerosols over West Afri
 # Author 
 John Smith, University of Somewhere Else.
 Francesco Semeraro, University of Manchester
+Harry Chown, University of Manchester
 
 
 
