@@ -24,6 +24,8 @@ Other changes for second exercise.
 Methods for the work.
 
 #Additional 2
+
 Other stuff to push to Github.
 
 More stuff for different parallel versions.
+
