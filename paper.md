@@ -22,3 +22,6 @@ Other changes for second exercise.
 
 #Methodology
 Methods for the work.
+
+#Additional 2
+Other stuff to push to Github.
