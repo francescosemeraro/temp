@@ -19,3 +19,6 @@ Added simulations.
 
 #Additional
 Other changes for second exercise.
+
+#Methodology
+Methods for the work.
