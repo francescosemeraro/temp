@@ -1,10 +1,12 @@
 # Title
-<<<<<<< HEAD
+
 Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 # Author 
-Francesco Semeraro, University of Manchester
 John Smith, University of Somewhere Else.
+Francesco Semeraro, University of Manchester
+
+
 
 # Introduction
 We present aircraft measurement of BBOA over West Africa.
@@ -32,5 +34,10 @@ More stuff for different parallel versions.
 #Conclusions
 We made a fantastic insight into the BBOA aging process. Nonetheles, questions remain unanswered. Get some more funding
 
+
 #Acknowledgements
 I am thankful to my family and friends.
+
+# References
+Jones et al 1998
+
